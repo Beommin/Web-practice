@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.all{
+    border: 1px solid #333 ;
+    background-color: #ccc;
+    padding: 5px;
+    width: 287px;
+   
+}
+.all form{
+    display: grid;
+    grid-template-columns: repeat(4, 65px) ;
+    grid-auto-rows: 65px;
+    grid-gap: 5px;
+
+}
+.all form input{
+    border: 2px solid black;
+    cursor: pointer;
+}
+.all form input:hover{
+    box-shadow: 1px 1px 2px #333;
+}
+.all form input.clear{
+    background-color: red;
+}
+.all form input.operator{
+    background-color: yellow;
+}
+.all form input.operator-result{
+    background-color: yellow;
+}
+.all form input.dot{
+    background-color: green;
+}
+.text1{
+    grid-column: span 4;
+}
+.clear{
+    grid-column: span 3;
+}
+.operator-result{
+    grid-column: span 2;
+}
