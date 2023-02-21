@@ -1,0 +1,30 @@
+.story { 
+    background-image:url("https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_1280.jpg");
+    width: 56px;
+    height: 56px;
+    border-radius: 28px;
+    background-size: contain;
+    
+}
+.stroy-list  {
+    display:flex;
+    flex-direction: row;
+    gap: 10px;
+    overflow:scroll;
+    width: 500px;
+    
+}
+.stroy-list::-webkit-scrollbar{
+    display:none;
+}
+.stroy-set{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 3px solid blue;
+ padding-left: 20px;
+ padding-top: 20px;
+ padding-right: 20px;
+ padding-bottom: 20px;
+ 
+}

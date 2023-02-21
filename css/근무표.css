@@ -1,0 +1,62 @@
+.frame1{
+    
+    border:2px solid black
+}
+.work-title-container{
+    font-weight: 400;
+    font-size: 80px;
+    text-align: center;
+    width: 872px;
+    height: 101px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 156px;
+    padding-top: 93px;
+}
+.work-date-wrapper{
+    font-weight: 400;
+    font-size: 22px;
+    width: 315px;
+    height: 32px;
+    padding-left: 156px;
+    padding-top: 58px;
+}
+.second-word-container{
+    display: flex;
+    flex-direction: row;
+    
+}
+.work-co-wrapper{
+    font-weight: 400;
+    font-size: 22px;
+    width: 320px;
+    height: 32px;
+    padding-left: 155px;
+    padding-top: 12px;
+}
+.work-people-wrapper{
+    font-weight: 400;
+    font-size: 22px;
+    width: 216px;
+    height: 38px;
+    padding-left: 375px;
+    padding-top: 20px;
+}
+.third-word-container{
+    display: flex;
+    flex-direction: row;
+}
+.control-people-wrapper{
+    width: 365px;
+    height: 32px;
+    font-size: 22px;
+    font-weight: 400;
+    padding-top: 10 px;
+    padding-left: 155px;
+}
+.phone-number-wrapper{
+  font-size: 22px;
+  font-weight: 400;
+  padding-left: 330px;
+  color: rgba(55, 128, 240, 1);
+}

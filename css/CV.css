@@ -1,0 +1,346 @@
+.total-container{
+    width: 625px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black
+}
+.main1-container{
+width: 216px;
+height: 800px;
+background-color: deepskyblue
+
+}
+.name{
+    width: 191px;
+    height: 44px;
+    font-size: 25px;
+    line-height: 29.3px;
+    font-weight: 700;
+    padding-top: 72px;
+    padding-left: 11px;
+    padding-right: 14px;
+    padding-bottom: 66px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.line1{
+    width: 162px;
+    height: 1px;
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 24px;
+}
+.second-body-container{
+    color: white;
+}
+.contact-wrapper{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    width: 166px;
+    height: 21px;
+    
+    padding-left: 27px;
+    padding-top: 24px;
+    padding-right: 23px;
+}
+.location-icon-wrapper{
+
+}
+.text1-wrapper{
+    font-size: 8px;
+    line-height: 9.38px;
+    font-weight: 400;
+    width: 135px;
+    height: 29px;
+    padding-left: 59px;
+    padding-right: 22px;
+    padding-top: 17px;
+}
+.phone-icon-wrapper{
+
+}
+.text2-wrapper{
+ font-size: 8px; 
+ width: 134px;
+ height: 9px;
+ font-weight: 400;
+ line-height: 9.38px;
+ padding-right: 22px;
+ padding-left: 59px;
+ padding-top: 5px;  
+}
+.mail-icon-wrapper{
+
+}
+.text3-wrapper{
+ font-size: 8px;
+ width: 141px;
+ height: 11px;
+ font-weight: 400;
+ line-height: 9.38px;
+ padding-left: 59px;
+ padding-right: 16px;
+padding-top: 26px;
+}
+.linkedin-icon-wrapper{
+    
+}
+.text4-wrapper{
+font-size: 8px;
+line-height: 9.38px;
+font-weight: 400;
+width: 134px;
+height: 17px;
+padding-left: 59px;
+padding-right: 23px;
+padding-top: 22px;
+}
+.Github-icon-wrapper{
+
+}
+.text5-wrapper{
+font-size: 8px;
+line-height: 9.38px;
+font-weight: 400;
+width: 134px;
+height: 10px;
+padding-left: 59px;
+padding-right: 23px;
+padding-top: 24px;
+}
+.third-body-container{
+    color: white;
+}
+.line2{
+height: 1px;
+width: 162px;
+background-color: white;
+margin-top: 28px;
+margin-left: 27px;
+margin-right: 27px;
+}
+.EDUCATION-wrapper{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    width: 166px;
+    height: 21px;
+    padding-top: 40px;
+    padding-left: 27px;
+    padding-right: 27px;
+}
+.text67-container{
+    width: 170px;
+    height: 60px;
+    font-size: 12px;
+    line-height: 14.06px;
+    font-weight: 400;
+    padding-left: 24px;
+    padding-right: 22px;
+    padding-top: 15px;  
+}
+.fourth-body-container{
+    color: white;
+}
+.line3{
+    width: 162px;
+    height: 1px;
+    background-color: white;
+    margin-top: 34px;
+    margin-left: 27px;
+    
+}
+.SKILLS-wrapper{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    width: 56px;
+    height: 18px;
+    padding-left: 24px;
+    padding-right: 136px;
+    padding-top: 73px;
+}
+.text8-wrapper{
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 14.77px;
+    width: 148px;
+    height: 18px;
+    padding-top: 3px;
+    padding-left: 26px;
+}
+.main2-container{
+    width: 380px;
+    height: 800px;
+   background-color: white;
+}
+.English-name-container{
+    font-size: 32px;
+    font-weight: 700;
+    width: 298px;
+    height: 77px;
+    padding-top: 64px;
+    padding-left: 41px;
+}
+.line4{
+    width: 300px;
+    height: 2px;
+    background-color: black;
+    margin-left: 41px;
+    margin-top: 39px;    
+}
+.PROFILE-wrapper{
+    font-size: 14px;
+    font-weight: 500;
+    width: 298px;
+    height: 18px;
+    padding-top: 24px;
+    padding-left: 41px;
+    font-family: 'Roboto';
+    color: rgba(55, 128, 240, 1);
+}
+.text9-wrapper{
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 14.77px;
+    width: 293px;
+    height: 100px;
+    padding-left: 39px;
+    padding-top: 4px;
+    font-family: 'Roboto';
+}
+.Object-container{
+    padding-left: 39px;
+}
+.Object-wrapper{
+    font-size: 12px;
+    font-weight: 500;
+    font-family: 'Roboto';
+    width: 298px;
+    height: 18px;
+    padding-top: 15px;
+    color: rgba(55, 128, 240, 1);
+}
+.text10-wrapper{
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 11.72px;
+    font-family: 'Roboto';
+    width: 283px;
+    height: 104px;
+    padding-top: 8px;
+}
+.EXPERIENCE-wrapper{
+    font-size: 14px;
+    font-weight: 500;
+    font-weight: 'Roboto';
+    color: rgba(55, 128, 240, 1);
+    padding-left: 32px;
+    padding-top: 13px;
+    width: 298px;
+    height: 18px;
+}
+.text11-title-container{
+display: flex;
+flex-direction: row;
+
+}
+.text11-title{
+    font-size: 12px;
+    font-family: 'roboto';
+    font-weight: 700;
+    color: black;
+    padding-left: 33px;
+    padding-top: 4px;
+}
+.text11-date{
+    font-size: 8px;
+    font-weight: 400;
+    font-family: 'Roboto';
+    color: gray;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.text11-explain1{
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 17.72px;
+    color: gray;
+    padding-left: 33px;
+    padding-top: 3px;
+}
+.text11-explain2{
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 17.72px;
+    color: gray;
+    padding-left: 33px;
+    padding-top: 3px;
+}
+.text12-title-container{
+    display: flex;
+    flex-direction: row;
+    
+    }
+    .text12-title{
+        font-size: 12px;
+        font-family: 'roboto';
+        font-weight: 700;
+        color: black;
+        padding-left: 33px;
+        padding-top: 4px;
+    }
+    .text12-date{
+        font-size: 8px;
+        font-weight: 400;
+        font-family: 'Roboto';
+        color: gray;
+        padding-top: 5px;
+        padding-left: 5px;
+    }
+    .text12-explain1{
+        font-size: 9px;
+        font-weight: 400;
+        line-height: 17.72px;
+        color: gray;
+        padding-left: 33px;
+        padding-top: 3px;
+    }
+    .text12-explain2{
+        font-size: 9px;
+        font-weight: 400;
+        line-height: 17.72px;
+        color: gray;
+        padding-left: 33px;
+        padding-top: 3px;
+    }
+    .AWARDS-wrapper{
+        font-size: 14px;
+        font-weight: 500;
+        font-family: 'Roboto';
+        color: rgba(55, 128, 240, 1);
+        padding-left: 31px;
+        padding-top: 10px;
+    }
+    .text13-wrapper{
+        font-size: 10px;
+        font-weight: 400;
+        padding-top: 15px;
+        padding-left: 29px;
+        font-family: 'Roboto';
+        
+    }
+
+    .text14-wrapper{
+        font-size: 10px;
+        font-weight: 400;
+        padding-top: 3px;
+        padding-left: 29px;
+        font-family: 'Roboto';
+        
+    }
+    
